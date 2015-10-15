@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "kynm\\SayHello\\": "src/"
+            "SayHello\\": "src/"
         }
     }
 }
