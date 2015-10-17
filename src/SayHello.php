@@ -1,7 +1,5 @@
-<?php 
-
+<?php
 namespace SayHello;
-
 class SayHello
 {
     public static function world()
@@ -10,8 +8,8 @@ class SayHello
     }
 
     static function area($side){
-      $surface_area = $side * $side;
+        $surface_area = $side * $side;
 
-      echo "The squares surface area is $surface_area units\n";
+         echo "The squares surface area is $surface_area units\n";
     }
 }
